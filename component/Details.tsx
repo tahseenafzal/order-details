@@ -64,7 +64,7 @@ const Details = () => {
         </GridItem>
         <GridItem colSpan={2}>
           <FormControl>
-            <Button size={"lg"} w={"full"}>
+            <Button variant={"primary"} size={"lg"} w={"full"}>
               Place Order
             </Button>
           </FormControl>
